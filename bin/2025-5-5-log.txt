@@ -1,0 +1,4 @@
+21:17:1 =>[info] /home/mxh/文档/MPRPC/example/callee/friendservice.cc:main:47
+21:17:1 =>[info] first log message!
+22:3:21 =>[info] /home/mxh/文档/MPRPC/example/callee/friendservice.cc:main:47
+22:3:21 =>[info] first log message!

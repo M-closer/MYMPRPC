@@ -1,0 +1,7 @@
+
+18:44:49 =>[ERROR] first log message!
+18:44:49 =>[ERROR] /home/mxh/文档/MPRPC/example/callee/friendservice.cc:main:48
+18:46:26 =>[error] first log message!
+18:46:26 =>[error] /home/mxh/文档/MPRPC/example/callee/friendservice.cc:main:48
+18:49:9 =>[info] /home/mxh/文档/MPRPC/example/callee/friendservice.cc:main:47
+18:49:9 =>[info] first log message!
